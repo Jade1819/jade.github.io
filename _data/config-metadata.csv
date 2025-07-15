@@ -6,7 +6,7 @@ worktype,Work Type,,
 title,Title,,
 creator,Creator,,
 date,Date Created,,
-subject,Subjects,true
+subject,Subjects,true,
 location,Location,,
 dimensions,Dimensions,,
 materials,Materials & Techniques,,
